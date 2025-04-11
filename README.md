@@ -29,6 +29,8 @@
 - ☁️ AWS (for file storage and backend)
 
 ---
+![Screenshot 2025-04-11 184339](https://github.com/user-attachments/assets/740e0c0e-7b7b-4a6c-84e0-5ce6e3165027)
+
 
 ## 🚀 Getting Started
 
